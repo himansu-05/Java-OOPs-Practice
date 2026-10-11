@@ -20,3 +20,7 @@ class Maincalss3{
         p3.display();
     }
 }
+
+
+// Static members are declared using static keyword, and we can access them using className
+// Non-static members are declared without using static keyword, and we can access them by creating object of the class
